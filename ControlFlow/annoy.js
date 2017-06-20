@@ -1,4 +1,4 @@
-var answer = prompt("are we thre yet?");
+var answer = prompt("are we the re yet?");
 
 //while(answer !== "yes" && answer !== "yeah"){
 
